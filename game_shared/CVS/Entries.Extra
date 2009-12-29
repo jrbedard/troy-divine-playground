@@ -1,0 +1,13 @@
+/activitylist.cpp////*///
+/ai_activity.h////*///
+/basecombatweapon_shared.cpp////*///
+/basecombatweapon_shared.h////*///
+/baseprojectile_shared.cpp////*///
+/baseprojectile_shared.h////*///
+/in_buttons.h////*///
+/movevars_shared.cpp////*///
+/movevars_shared.h////*///
+/shareddefs.h////*///
+/teamplay_gamerules.cpp////*///
+/voice_status.cpp////*///
+/voice_status.h////*///
